@@ -1,6 +1,6 @@
 # 🤖 AI Research & Report Generation Assistant
 
-### 📘 Mini Project (19CS702) – Review 1  
+### 📘  Project (19CS702) 
 **Submitted by:** Janarthanan S (212222040058)  
 **Batch:** 2022–2026  
 **Team No:** 169  
@@ -131,7 +131,7 @@ When complete, the final .docx report will automatically download.
 
 ## 📁 Project Structure
 
-```text
+```
 ai_research_assistant/
 ├── .gitignore
 ├── api_server.py           # The FastAPI backend server
@@ -141,7 +141,7 @@ ai_research_assistant/
 ├── README.md               # This file
 ├── downloaded_pdfs/        # (Temporary folder for PDFs, created automatically)
 └── venv/                   # (Python virtual environment)
-
+```
 ## 🧾 References
 
 1. LangChain Team. *LangGraph Documentation*. [https://python.langchain.com/docs/langgraph](https://python.langchain.com/docs/langgraph)  
