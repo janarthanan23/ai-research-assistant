@@ -1,5 +1,12 @@
 # 🤖 AI Research & Report Generation Assistant
 
+### 📘 Mini Project (19CS702) – Review 1  
+**Submitted by:** Janarthanan S (212222040058)  
+**Batch:** 2022–2026  
+**Team No:** 169  
+**Guide:** Dr. Anitha Julian, Professor, Department of CSE  
+**Institution:** Saveetha Engineering College (Autonomous)
+
 This project is an AI-powered assistant that automates the entire academic research workflow. It leverages an *agentic AI architecture* built with *LangGraph* to transform a simple user-provided topic into a comprehensive, formatted research report.
 
 The system autonomously finds relevant papers, extracts their content, uses the *Gemini API* for deep analysis and comparison, and generates a structured .docx file summarizing the current state, methodologies, key findings, and future work for the given topic.
@@ -134,3 +141,11 @@ ai_research_assistant/
 ├── README.md               # This file
 ├── downloaded_pdfs/        # (Temporary folder for PDFs, created automatically)
 └── venv/                   # (Python virtual environment)
+
+## 🧾 References
+
+1. LangChain Team. *LangGraph Documentation*. [https://python.langchain.com/docs/langgraph](https://python.langchain.com/docs/langgraph)  
+2. Vaswani, A. et al. (2017). *Attention Is All You Need*. [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)  
+3. Allahyari, M. et al. (2017). *Text Summarization Techniques: A Brief Survey*. [https://arxiv.org/abs/1707.02268](https://arxiv.org/abs/1707.02268)  
+
+---
